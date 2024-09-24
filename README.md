@@ -4,10 +4,14 @@
 
 <img src = "https://backiee.com/static/wallpapers/1000x563/324349.jpg">
 
-## Sobre mi 🙋‍♂️
+## About me 🙋‍♂️
 - 💻 Web developer
 - 🎵 music teacher
 - 👨‍🎓 System information engineering student
+
+## Tech & soft
+- JavasCript, Python, TypeScript, ReactJs, NodeJs, Express, PostgeSQL, Docker, Sequelize, HTML5, CSS3.
+- Proactive, Adaptable, Excel under pressure, Quick to learn
 
 ## I'm working on 👩‍💼
 
