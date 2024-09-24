@@ -4,6 +4,8 @@
 
 <img src = "https://backiee.com/static/wallpapers/1000x563/324349.jpg">
 
+matias.jtor@gmail.com
+
 ## About me 🙋‍♂️
 - 💻 Web developer
 - 🎵 music teacher
