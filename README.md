@@ -9,7 +9,7 @@ matias.jtor@gmail.com
 ## About me 🙋‍♂️
 - 💻 Web developer
 - 🎵 music teacher
-- 👨‍🎓 System information engineering student
+- 👨‍🎓 Information System Engineering student
 
 ## Tech & soft
 - JavasCript, Python, TypeScript, ReactJs, NodeJs, Express, PostgeSQL, Docker, Sequelize, HTML5, CSS3.
